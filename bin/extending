@@ -6,6 +6,3 @@ puts Dancer.metadata
 
 
 
-  class Kid 
-
-  end
